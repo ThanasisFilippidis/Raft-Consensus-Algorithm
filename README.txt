@@ -1,0 +1,1 @@
+Implementation of a key/value service utilizing Raft (which is also implemented using Go). The actual repository was converted to private after professor's Jonathan Appavoo request, feel free to message me to gain access.
